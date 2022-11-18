@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_home_fragment">hello_home_fragment</string>
+    <string name="to_category">to_category</string>
+    <string name="ToCategory">To Category</string>
+    <string name="hellohomefragment">Hallo, Home Fragment</string>
+    <string name="category_name">Category Name</string>
+    <string name="category_description">Category Description</string>
+    <string name="to_profile">To Profile</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="question_coach">question_coach</string>
+    <string name="sir_alex_ferguson">sir_alex_ferguson</string>
+    <string name="jose_mourinho">jose_mourinho</string>
+    <string name="louis_van_gaal">louis_van_gaal</string>
+    <string name="david_moyes">david_moyes</string>
+    <string name="close">close</string>
+    <string name="choose">choose</string>
+    <string name="this_profile">this_profile</string>
+    <string name="this_category">this_category</string>
+    <string name="category_lifestyle">category_lifestyle</string>
+</resources>

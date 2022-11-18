@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_choose" type="id">btn_choose</item>
+    <item name="btn_detail_category" type="id">btn_detail_category</item>
+    <item name="btn_close" type="id">btn_close</item>
+    <item name="rg_options" type="id">rg_options</item>
+    <item name="rb_saf" type="id">rb_saf</item>
+    <item name="rb_lvg" type="id">rb_lvg</item>
+    <item name="rb_mou" type="id">rb_mou</item>
+    <item name="rb_moyes" type="id">rb_moyes</item>
+</resources>
